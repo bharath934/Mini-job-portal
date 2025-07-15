@@ -1,7 +1,4 @@
-![IMG-20250715-WA0009](https://github.com/user-attachments/assets/0e76c2ca-3da0-4339-8aa4-04bc91ae70d2)
-![IMG-20250715-WA0008](https://github.com/user-attachments/assets/5fc4dc4d-0078-40ed-8162-cf15938c9144)
-![IMG-20250715-WA0007](https://github.com/user-attachments/assets/b7af41f8-3606-458b-aa24-2e8b66be1c85)
-![IMG-20250715-WA0006](https://github.com/user-attachments/assets/18d04144-6bab-44ea-a951-ad67655ab85c)
+
 # Enhanced Job Board Backend
 
 This is the enhanced backend API for the Job Board application built with Node.js, Express, MongoDB, and file upload capabilities.
@@ -154,3 +151,11 @@ backend/
 ├── package.json
 └── README.md
 ```
+Signup Page
+![IMG-20250715-WA0009](https://github.com/user-attachments/assets/0e76c2ca-3da0-4339-8aa4-04bc91ae70d2)
+JobSeeker
+![IMG-20250715-WA0008](https://github.com/user-attachments/assets/5fc4dc4d-0078-40ed-8162-cf15938c9144)
+Admin
+![IMG-20250715-WA0007](https://github.com/user-attachments/assets/b7af41f8-3606-458b-aa24-2e8b66be1c85)
+Employeer
+![IMG-20250715-WA0006](https://github.com/user-attachments/assets/18d04144-6bab-44ea-a951-ad67655ab85c)
